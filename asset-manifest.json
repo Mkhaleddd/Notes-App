@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mkhaleddd/Notes-App.git/static/css/main.073c9b0a.css",
+    "main.js": "/Mkhaleddd/Notes-App.git/static/js/main.d3ea8cb9.js",
+    "static/js/787.ae0bc7b5.chunk.js": "/Mkhaleddd/Notes-App.git/static/js/787.ae0bc7b5.chunk.js",
+    "static/media/logo.svg": "/Mkhaleddd/Notes-App.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mkhaleddd/Notes-App.git/index.html",
+    "main.073c9b0a.css.map": "/Mkhaleddd/Notes-App.git/static/css/main.073c9b0a.css.map",
+    "main.d3ea8cb9.js.map": "/Mkhaleddd/Notes-App.git/static/js/main.d3ea8cb9.js.map",
+    "787.ae0bc7b5.chunk.js.map": "/Mkhaleddd/Notes-App.git/static/js/787.ae0bc7b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d3ea8cb9.js"
+  ]
+}
