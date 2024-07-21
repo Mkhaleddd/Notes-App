@@ -18,3 +18,4 @@
 
 Here's the demo:
 https://mkhaleddd.github.io/Notes-App/
+![notes](https://github.com/user-attachments/assets/bad031ce-1804-4370-86d6-3faee659e36d)
